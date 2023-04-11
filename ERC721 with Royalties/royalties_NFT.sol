@@ -29,7 +29,7 @@ import "@openzeppelin/contracts/token/common/ERC2981.sol";
     ╚█████╔╝██║░░██║██║░░██║╚█████╔╝██║░╚███║██║╚█████╔╝
 
 
-This contract is designed to be used as a simple nft factory contract,
+This contract is designed to be used as a simple nft factory contract with royalties,
 and may be used by anyone for similar purposes. Cryptonic chronic takes absolutely no responisibility
 for anyone who uses this contract for malicious purposes, or any losses that may occur,
 please do not copy and paste any contracts you do not fully understand as it could lead
